@@ -1,4 +1,4 @@
-// Helper function to compare arrays
+
 function assertArraysEqual(arr1, arr2) {
   if (arr1.length !== arr2.length) {
     console.log(`❌❌❌ Assertion Failed: ${arr1} !== ${arr2}`);
